@@ -1,60 +1,186 @@
-# APRENDENDO A APRENDER
+# 📘 Aprendendo a Aprender
 
-Este é um projeto adicional do sprint 3 e 4 do bootcamp de desenvolvimento web da Triple Ten.
+Projeto adicional desenvolvido durante os **Sprints 3 e 4 do Bootcamp de Desenvolvimento**
+**Web da TripleTen Brasil**.
 
-Um site de página única usando HTML e CSS avançados, onde o foco está no layout do flexbox, posicionamento de elementos, HTML semântico, Google fonts, pseudoclasse, iframes, animação em css, formulário e BEM flat.
+O projeto consiste em um **site de página única (`One-Page Website`)** desenvolvido com
+**HTML e CSS avançados**, seguindo roteiro e checklist rígidos, porém **sem guia passo a**
+**passo**, tornando-o um desafio técnico e estrutural significativo.
 
-Feito com roteiro com bastante instruções, mas não todas, para cada bloco. Com código inicial do HTML para as seções principais da página e alguns estilos para começar.
+---
 
-(: It was a nice challenge! :)
+## 🎯 Objetivo do Projeto
 
-# RECURSOS DO PROJETO
+O objetivo principal foi **consolidar e aprofundar conceitos fundamentais e avançados de desenvolvimento front-end**, com foco em:
 
-- HTML semântico
-  ![alt text](./images/README/html-semantico_1.png)
-  ![alt text](./images/README/html-semantico_2.png)
-  ![alt text](./images/README/html-semantico_3.png)
-  ![alt text](./images/README/html-semantico_4.png)
-  ![alt text](./images/README/html-semantico_5.png)
+- Organização de código em grande escala
+- Uso consistente de `HTML semântico`
+- Construção de layouts complexos com `Flexbox`
+- Aplicação da metodologia `BEM Flat`
+- Implementação de `animações CSS`
+- Integração de `iframes, fontes externas e formulários`
 
-- Flexbox
-  ![alt text](./images/README/flexbox_1.png)
-  ![alt text](./images/README/flexbox_2.png)
-  ![alt text](./images/README/flexbox_3.png)
+Este projeto simula um cenário mais próximo da realidade profissional, onde o
+desenvolvedor recebe requisitos claros, mas precisa **tomar decisões técnicas de forma independente**.
 
-- Posicionamento
-  ![alt text](./images/README/position_1.png)
-  ![alt text](./images/README/position_2.png)
-  ![alt text](./images/README/position_3.png)
+---
 
-- Google fonts
-  ![alt text](./images/README/google-fonts_1.png)
-  ![alt text](./images/README/google_fonts_2.png)
+## 🛠️ Tecnologias e Técnicas Utilizadas
 
-- Pseudoclasse
-  ![alt text](./images/README/pseudoclasse_hover.png)
+- **HTML5 semântico**
+- **CSS3** avançado
+- **Flexbox** para layout e alinhamento
+- **Metodologia BEM** (`BEM Flat`)
+- **Google Fonts**
+- **Pseudo-classes** (`:hover`, etc.)
+- **Animações CSS** com `@keyframes`
+- **Posicionamento** relativo e absoluto
+- `iframes` (integração de vídeos)
+- **Formulários HTML com validação nativa**
+- `Normalize.css`
+- **Estrutura modular de arquivos CSS**
 
-- iframe
-  ![alt text](./images/README/iframe.png)
+---
 
-- Animação CSS
-  ![alt text](./images/README/rotation_1.png)
-  ![alt text](./images/README/rotation_2.png)
-  ![alt text](./images/README/rotation_3.png)
+## 🗂️ Estrutura do Projeto
 
-- Formulário
-  ![alt text](./images/README/form.png)
+```bash
+/ projeto-adicional_aprendendo-a-aprender/
+├── .vscode/ # Configurações do workspace
+│   ├── extensions.json
+│   └── settings.json
+├── blocks/
+│   └── # Blocos CSS organizados segundo a metodologia BEM Flat
+├── images/
+│   ├── logo/
+│   ├── README/
+│   └── # Imagens do projeto (conteúdo)
+├── styles/ # CSS principal da página
+│   └── style.css
+├── vendor/ # Arquivos de terceiros
+├── .editorconfig # Padronização de estilo entre editores
+├── .gitignore # Arquivos e pastas ignorados pelo Git
+├── .prettierignore # Arquivos ignorados pelo Prettier
+├── index.html # Estrutura principal da página
+└── README.md # Documentação do projeto
+```
 
-- BEM flat
-  ![alt text](./images/README/bem-flat_1.png)
-  ![alt text](./images/README/bem-flat_2.png)
-  ![alt text](./images/README/bem-flat_3.png)
-  ![alt text](./images/README/bem-flat_4.png)
-  ![alt text](./images/README/bem-flat_5.png)
-  ![alt text](./images/README/bem-flat_6.png)
-  ![alt text](./images/README/bem-flat_7.png)
+A arquitetura segue rigorosamente o **padrão BEM Flat**, com cada bloco isolado em seu
+próprio arquivo CSS.
 
-# PLANOS PARA FINALIZAÇÃO DO PROJETO
+---
 
-- Adicionar meus vídeos educativos favoritos.
-- Verificar o código para compatibilidade cruzada e adicionar todos os prefixos de fornecedores necessários.
+## ✨ Funcionalidades e Destaques
+
+### 🔹 HTML semântico
+
+Uso correto de `header`, `main`, `section`, `nav`, `footer`, `ul`, `li`, `form`, entre
+outros.
+
+![alt text](./images/README/html-semantico_1.png)
+![alt text](./images/README/html-semantico_2.png)
+![alt text](./images/README/html-semantico_3.png)
+![alt text](./images/README/html-semantico_4.png)
+![alt text](./images/README/html-semantico_5.png)
+
+### 🔹 Layout com Flexbox
+
+Distribuição, alinhamento e responsividade baseados exclusivamente em `Flexbox`.
+
+![alt text](./images/README/flexbox_1.png)
+![alt text](./images/README/flexbox_2.png)
+![alt text](./images/README/flexbox_3.png)
+
+### 🔹 Posicionamento de elementos
+
+Uso criterioso de `posicionamento relativo` e `absoluto` conforme exigido pelo roteiro.
+
+![alt text](./images/README/position_1.png)
+![alt text](./images/README/position_2.png)
+![alt text](./images/README/position_3.png)
+
+### 🔹 Google Fonts
+
+Integração de fontes externas conforme o design original.
+
+![alt text](./images/README/google-fonts_1.png)
+![alt text](./images/README/google_fonts_2.png)
+
+### 🔹 Pseudo-classes
+
+Efeito de `hover` suave aplicado a todos os links do site.
+
+![alt text](./images/README/pseudoclasse_hover.png)
+
+### 🔹 iframe
+
+Incorporação de vídeos externos respeitando boas práticas de semântica e acessibilidade.
+
+![alt text](./images/README/iframe.png)
+
+### 🔹 Animações CSS
+
+Elementos animados utilizando **`@keyframes` e animações contínuas em loop**.
+
+![alt text](./images/README/rotation_1.png)
+![alt text](./images/README/rotation_2.png)
+![alt text](./images/README/rotation_3.png)
+
+### 🔹 Formulário
+
+Formulário funcional com **validação HTML5 nativa**, por meio dos atributos `required` e
+`type`, conforme exigido pelo checklist do projeto.
+
+![alt text](./images/README/form.png)
+
+### 🔹 BEM Flat
+
+Estrutura clara, escalável e reutilizável seguindo rigorosamente o padrão `BEM Flat`.
+
+![alt text](./images/README/bem-flat_1.png)
+![alt text](./images/README/bem-flat_2.png)
+![alt text](./images/README/bem-flat_3.png)
+![alt text](./images/README/bem-flat_4.png)
+![alt text](./images/README/bem-flat_5.png)
+![alt text](./images/README/bem-flat_6.png)
+![alt text](./images/README/bem-flat_7.png)
+
+---
+
+## 🚀 Como visualizar o projeto
+
+1. Você pode abrir o projeto localmente:
+
+```Shell
+git clone git@github.com:VanessaYuriAB/web_projetc_learning_to_learn.git
+```
+
+2. Depois, abra o arquivo `index.html` diretamente no navegador ou use a extensão
+   `Live Server` do `VS Code`.
+
+💡 Opcional: o projeto pode ser facilmente publicado usando **GitHub Pages**.
+
+---
+
+## 📌 Possíveis Melhorias
+
+- Adicionar vídeos educativos autorais ou favoritos
+- Garantir compatibilidade `cross-browser` com **prefixos de fornecedor**
+- Aprimorar acessibilidade (`ARIA`, contraste e navegação por teclado)
+- Evoluir o formulário para envio real de dados
+- Pequenos refinamentos visuais e de performance
+
+---
+
+## ✅ Status do Projeto
+
+Concluído conforme checklist.
+
+---
+
+## 👩‍💻 Autora
+
+Vanessa Yuri A. Brito
+
+🧪 Projeto adicional e desafio independente, com foco em aprendizado técnico e
+organização de código.
