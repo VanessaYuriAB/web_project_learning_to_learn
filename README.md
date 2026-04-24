@@ -74,14 +74,9 @@ próprio arquivo CSS.
 
 ### 🔹 HTML semântico
 
-Uso correto de `header`, `main`, `section`, `nav`, `footer`, `ul`, `li`, `form`, entre
-outros.
+Uso correto de `header`, `main`, `section`, `ul`, `li`, entre outros.
 
 ![alt text](./images/README/html-semantico_1.png)
-![alt text](./images/README/html-semantico_2.png)
-![alt text](./images/README/html-semantico_3.png)
-![alt text](./images/README/html-semantico_4.png)
-![alt text](./images/README/html-semantico_5.png)
 
 ### 🔹 Layout com Flexbox
 
@@ -89,7 +84,6 @@ Distribuição, alinhamento e responsividade baseados exclusivamente em `Flexbox
 
 ![alt text](./images/README/flexbox_1.png)
 ![alt text](./images/README/flexbox_2.png)
-![alt text](./images/README/flexbox_3.png)
 
 ### 🔹 Posicionamento de elementos
 
@@ -97,14 +91,12 @@ Uso criterioso de `posicionamento relativo` e `absoluto` conforme exigido pelo r
 
 ![alt text](./images/README/position_1.png)
 ![alt text](./images/README/position_2.png)
-![alt text](./images/README/position_3.png)
 
 ### 🔹 Google Fonts
 
 Integração de fontes externas conforme o design original.
 
 ![alt text](./images/README/google-fonts_1.png)
-![alt text](./images/README/google_fonts_2.png)
 
 ### 🔹 Pseudo-classes
 
@@ -123,8 +115,6 @@ Incorporação de vídeos externos respeitando boas práticas de semântica e ac
 Elementos animados utilizando **`@keyframes` e animações contínuas em loop**.
 
 ![alt text](./images/README/rotation_1.png)
-![alt text](./images/README/rotation_2.png)
-![alt text](./images/README/rotation_3.png)
 
 ### 🔹 Formulário
 
@@ -138,16 +128,10 @@ Formulário funcional com **validação HTML5 nativa**, por meio dos atributos `
 Estrutura clara, escalável e reutilizável seguindo rigorosamente o padrão `BEM Flat`.
 
 ![alt text](./images/README/bem-flat_1.png)
-![alt text](./images/README/bem-flat_2.png)
-![alt text](./images/README/bem-flat_3.png)
-![alt text](./images/README/bem-flat_4.png)
-![alt text](./images/README/bem-flat_5.png)
-![alt text](./images/README/bem-flat_6.png)
-![alt text](./images/README/bem-flat_7.png)
 
 ---
 
-## 🚀 Como visualizar o projeto
+## 🚀 Como abrir o projeto
 
 1. Você pode abrir o projeto localmente:
 
@@ -157,8 +141,6 @@ git clone git@github.com:VanessaYuriAB/web_projetc_learning_to_learn.git
 
 2. Depois, abra o arquivo `index.html` diretamente no navegador ou use a extensão
    `Live Server` do `VS Code`.
-
-💡 Opcional: o projeto pode ser facilmente publicado usando **GitHub Pages**.
 
 ---
 
