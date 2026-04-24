@@ -9,6 +9,14 @@ O projeto consiste em um **site de página única (`One-Page Website`)** desenvo
 
 ---
 
+## 🔗 Visualização do Projeto
+
+A página está disponível via:
+
+➜ **GitHub Pages:** https://vanessayuriab.github.io/web_project_learning_to_learn/
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 O objetivo principal foi **consolidar e aprofundar conceitos fundamentais e avançados de desenvolvimento front-end**, com foco em:
